@@ -3,12 +3,13 @@ This project aims to create ‘ConnectHub’, a social networking website where 
 
 # System Design # 
 ConnectHub uses a client-server setup. Users interact with a web-based front end, while a backend server manages data processing, storage, and business logic.
-##Front End
+
+### Front End ###
 -	The front end of the platform is created using contemporary web technologies like Sass (short for syntactically awesome style sheets) a dynamic style sheet language that extends CSS, along with JavaScript.
 -	It offers an intuitive user interface enabling seamless navigation across platform sections, content interaction, and profile management. 
 -	This interface adapts responsively, ensuring smooth functionality across a spectrum of devices, encompassing desktops, tablets, and smartphones.
 
-## Backend
+### Backend
 -	The backend is constructed using a microservices structure, enabling scalability, adaptability, and maintainability. 
 -	It is composed of multiple standalone services, each handling different tasks on the platform. 
 -	These backend services are created using Node.js and interact with one another through RESTful APIs. 
